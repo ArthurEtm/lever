@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lever/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/lever/static/js/main.e723aa27.chunk.js",
+    "main.js.map": "/lever/static/js/main.e723aa27.chunk.js.map",
+    "runtime-main.js": "/lever/static/js/runtime-main.4dce7f45.js",
+    "runtime-main.js.map": "/lever/static/js/runtime-main.4dce7f45.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/lever/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.123fec32.chunk.js": "/lever/static/js/2.123fec32.chunk.js",
+    "static/js/2.123fec32.chunk.js.map": "/lever/static/js/2.123fec32.chunk.js.map",
+    "index.html": "/lever/index.html",
+    "precache-manifest.2f4cf076c783dc14968950184aa5cd66.js": "/lever/precache-manifest.2f4cf076c783dc14968950184aa5cd66.js",
+    "service-worker.js": "/lever/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/lever/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/lever/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.123fec32.chunk.js.LICENSE": "/lever/static/js/2.123fec32.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dce7f45.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.123fec32.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e723aa27.chunk.js"
+  ]
+}
